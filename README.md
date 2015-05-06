@@ -32,7 +32,7 @@ Use the {exp:grid_images}{your_text_field}{/exp:grid_images} tag pair around you
 Example conversion:
 
 ```
-[image-1] in my text field output will be replaced with <div id="grid_image_1" class="grid_image"></div>
+[image-1] gets replaced with <div id="grid_image_1" class="grid_image"></div>
 ```
 
 ### Example Template Code
@@ -55,7 +55,7 @@ Your template code will need to be customized to reflect the custom options you'
 {/page_images}
 ```
 
-I don't recommend outputting raw images direct from the file upload field without some level of resizing happening. My preference is to use CE Image (http://www.causingeffect.com/software/expressionengine/ce-image) to manipulate images template-side, however solutions that manipulate the image at time of upload would work as well. Your template code will need to reflect whichever option you use.
+I don't recommend outputting raw images direct from the file upload field without some level of resizing happening. My preference is to use CE Image to manipulate images template-side, however solutions that manipulate the image at time of upload would work as well. Your template code will need to reflect whichever option you use.
 
 ### Example JavaScript
 
