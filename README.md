@@ -110,3 +110,7 @@ Finally, your CSS will need be customized to match your setup.
     .grid_image { float: none; padding: 0; width: 100%; }
 }
 ```
+
+### Sample Results
+
+![Image of Results](http://thotbox.ca/grid-images-output.jpg)
