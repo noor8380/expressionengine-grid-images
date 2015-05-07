@@ -113,4 +113,4 @@ Finally, your CSS will need be customized to match your setup.
 
 ### Sample Results
 
-![Image of Results](http://thotbox.ca/grid-images-output.jpg)
+![Image of Results](http://thotbox.ca/grid-images-result.jpg)
