@@ -5,7 +5,7 @@ ExpressionEngine fieldtype and plugin which adds grid based responsive image sup
 
 My goal with Grid Images is not to provide the full meal in terms of functionality, but rather provide bread for your sandwich. By no means am I offering an install-it-and-forget-it solution here, but something that you can easily customize to suit the needs of your build.
 
-In the past I've achieved similar functionality using a multitide of addons from other developers. Not looking to reinvent the wheel, but instead streamline the process and provide required functionality in a single package supporting current versions of the CMS.
+In the past I've achieved similar functionality using a multitude of addons from other developers. Not looking to reinvent the wheel, but instead streamline the process and provide required functionality in a single package supporting current versions of the CMS.
 
 ### Installation
 
