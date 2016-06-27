@@ -22,7 +22,7 @@ class grid_images {
         return $data;
     }
 
-    public function usage() {
+    public static function usage() {
         ob_start();
     ?>
         Use {exp:grid_images} ... {/exp:grid_images} around your editor output to replace image shortcodes with image containers.
